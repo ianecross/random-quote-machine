@@ -1,4 +1,4 @@
-# random-quote-machine 
+#Random Quote Machine 
 
 A webpage that generates quotations from the Forismatic API.   
 
